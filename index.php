@@ -1,5 +1,5 @@
 <?
 //Inicio de indexaco
-//ljejejej
+//vale
 //testaco final salvajada
 //salvajada
