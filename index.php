@@ -1,3 +1,3 @@
 <?
 //Inicio de index
-//Modificacion creo conflicto
+// pero sin conflicto
