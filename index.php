@@ -1,4 +1,4 @@
 <?
 //Inicio de index
-// toma conflicto
+lo cambio
 //testaco final
